@@ -1,0 +1,15 @@
+# Estado local de agentes y memoria sincronizada
+.agents/
+.codex/
+MEMORY.md
+
+# Temas Shopify: repositorios Git independientes
+/shopify-themes/*/
+
+# Copias históricas locales, no publicables
+/archive/*/
+
+# Artefactos temporales del sistema
+.DS_Store
+Thumbs.db
+*.tmp
