@@ -1,9 +1,4 @@
 # Checklist paso a paso para publicar "Successful and Alone" en Amazon KDP
-*(ebook + tapa blanda, edición en inglés)*
-
-> Basado en documentación oficial de Amazon KDP y guías técnicas actualizadas a 2026.
-
----
 
 ## 1. Preparación previa (antes de entrar en KDP)
 
